@@ -10,9 +10,7 @@ const config: Config = {
     extend: {
       colors: {
         'grayish-blue': '#7b879d',
-        'card-background': 'hsl(0, 0%, 100%)',
-        'description-text': 'hsl(212, 45%, 89%)',
-        'image-background': 'hsl(218, 44%, 22%)'
+        'card-background': 'hsl(0, 0%, 100%)'
       },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
